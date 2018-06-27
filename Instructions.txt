@@ -1,0 +1,11 @@
+This project contains code that will perform a runtime analysis on some python code.
+Please complete or respond to the following tasks or questions.
+
+1) Identify the code that is used to measure the runtime.
+2) What function are we measuring the runtime of?
+3) Step through the code line by line analyzing the code.
+    a) Which parts of the code will be slow? Why?
+    b) Which parts of the code will be fast? Why?
+    c) Which parts of the code may be fast or slow depending on the situation? What situations would cause these sections of code to be fast or slow?
+
+    
